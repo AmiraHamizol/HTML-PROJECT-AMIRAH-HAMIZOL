@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Welcome to Amirah's Page!</title>
+	<link rel="shortcut icon" type="image/jpg" href="mainphoto.jpg">
+	<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+
+<body>
+	<div id="container">
+
+<!--First division-->
+<div id="firstdivision" style="background-image:url('backgroundheader.jpg'); background-size: cover; height: 300px; padding-top: 10px; text-align: center;">
+</div>
+
+<div id="content">
+
+<!--Second division-->
+<div id="seconddivision" style="height: 600px; margin: 40px;">
+
+<h1 style="font-size: 50px; color: #346CCAFF; margin: 50px; text-align: center;">Parents</h1>
+
+<center>
+<table width="1000" border="1" bgcolor="#717C8DFF" style="margin: 100px;">
+	<tr>
+		<th>
+
+<h3 style="height: 50px; font-size: 30px; color: black; margin: 50px; text-align: center;">Father</h3>
+
+<center>
+<a target="_blank" href="Abah.jpg">
+	<img src="Abah.jpg" alt="father" style="height: 300px; float: center;">
+</center>
+</a>
+
+<center>
+<p style="line-height: 2.0; font-size: 20px; height: 100px;">
+<table width="800" border="1" height="300">
+	<tr>
+	<th width="400">Name</th>
+	<th width="400">Age</th>
+	<th width="400">About</th>
+	</tr>
+
+	<tr>
+		<td>Hamizol Bin Abd Hamid</td>
+		<td>51 years old, 8 May</td>
+		<td>The eldest among his siblings, a loving and funny father, he is a very friendly and helpful person to other people.</td>
+	</tr>
+</table>
+</p>
+</center>
+
+<br>
+<br>
+<br>
+
+<h3 style="height: 50px; font-size: 30px; color: black; margin: 50px; text-align: center;">Mother</h3>
+
+<center>
+<a target="_blank" href="Ibu.jpg">
+	<img src="Ibu.jpg" alt="mother" style="height: 300px; float: center;">
+</center>
+</a>
+
+<center>
+<p style="line-height: 2.0; font-size: 20px; height: 100px;">
+<table width="800" border="1" height="300">
+	<tr>
+	<th width="400">Name</th>
+	<th width="400">Age</th>
+	<th width="400">About</th>
+	</tr>
+
+	<tr>
+		<td>Suhana Binti Alias</td>
+		<td>50 years old, 10 July</td>
+		<td>She is the second among her siblings, a caring and sweetest mother, she is the ‘comfort zone’ whenever me and my siblings are not feeling well.</td>
+	</tr>
+</table>
+</p>
+
+</center>
+
+<br>
+
+
+</center>
+
+</center>
+
+</th>
+</tr>
+</table>
+
+<div id="footer"> Made by &copy; Amirah Zulaikha Hamizol</div>
+
+<br>
+
+</html>
